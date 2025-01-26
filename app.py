@@ -31,8 +31,8 @@ st.subheader("Hi, I’m Nwala Blessing Uchechi 👩‍💻")
 st.header("About Me")
 col1, col2 = st.columns([1, 2])  # Adjust column widths
 with col1:
-    # Add the image (replace with your actual image path if needed)
-    image = Image.open("C:\\Users\\nwala\\Documents\\personal website\\GREAT_9069.jpg")
+    # Use the relative file path for the image
+    image = Image.open("GREAT_9069.jpg")
     st.image(image, caption="Blessing Uchechi Nwala", use_container_width=True)
 with col2:
     st.write(
