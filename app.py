@@ -146,18 +146,24 @@ st.header("Work Experience")
 st.write(
     """
     - **Computer Technician**, Bowling Green State University, USA (08/2024 – 04/2025)  
-      - Managed computerized manikins in simulation labs and maintained their optimal functionality.  
-      - Performed **cybersecurity monitoring** and resolved network vulnerabilities in the simulation labs.  
-      - Conducted data analysis and visualizations to enhance system performance and security.
+      - I managed computerized manikins in simulation labs and maintained their optimal functionality.  
+      - I performed cybersecurity monitoring and resolved network vulnerabilities in the simulation labs.  
+      - I conducted data analysis and visualizations to enhance system performance and security.
 
     - **IT Support Engineer**, Julius Berger, Nigeria (10/2021 – 08/2023)  
-      - Designed and implemented **network security measures**, ensuring minimal vulnerabilities.  
-      - Provided technical support and configured firewalls for enhanced corporate security.  
-      - Conducted **incident response planning** and monitored system breaches.  
+      - I managed and maintained the company’s IT infrastructure, ensuring seamless operations across systems and networks.
+      - I provided technical support by troubleshooting and resolving hardware, software, and network issues hereby ensuring minimal downtime for employees.
+      - I administered user access control, ensuring that sensitive data and systems were secure from unauthorized access by setting up accounts and managing permissions.
+      - I proactively monitored network and system performance, identifying and resolving potential issues before they impacted operations, ensuring a smooth workflow across the organization.
+      
 
-    - **Data Analyst**, PJ Rapha Care Limited, Nigeria (09/2019 – 10/2021)  
-      - Performed **cyber risk assessments** on agricultural data systems.  
-      - Developed predictive models for decision-making and created security safeguards for data storage.  
+
+    - **Data Engineer**, PJ Rapha Care Limited, Nigeria (09/2019 – 10/2021)  
+      - I collected and analyzed patient data from antenatal visits, tracking vital signs, health progress, and trends from the first visit to delivery using charts and graphs.  
+      - I monitored patient records across ICU, male, female, and children’s wards, analyzing visit frequency, reasons for admission, and health outcomes over time.
+      - I developed visual reports using data visualization tools to assess patient improvement, risk factors, and overall hospital admission trends.
+      - I performed statistical analysis on maternal health data to identify patterns in pregnancy outcomes and antenatal care effectiveness.
+      - I streamlined hospital data management by organizing large patient datasets, ensuring accuracy, consistency, and easy retrieval for decision-making.
 
     - **Computer Engineer**, Owerri Capital Development Authority, Nigeria (11/2017 – 11/2018)  
       - Provided support for IT infrastructure and implemented **cyber defense protocols**.  
