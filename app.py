@@ -58,7 +58,7 @@ st.write(
     """
     I am a graduate student in **Computer Science** specializing in **Cybersecurity and Digital Forensics**.  
     I have a deep expertise in **data analysis**, **machine learning**, and **data visualization**, complemented by strong proficiency in **cybersecurity practices**.  
-    I excel at predictive modeling, data preprocessing, and applying advanced algorithms like **random forest** and **linear regression** 
+    I excel at predictive modeling, data preprocessing, and applying advanced algorithms like **random forest**, XGBoost and **linear regression** 
     to derive actionable insights from complex datasets.  
 
     My cybersecurity skills include **threat detection**, **vulnerability assessments**, and **incident response planning**.  
