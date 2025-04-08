@@ -163,7 +163,7 @@ st.write(
       - I performed statistical analysis on maternal health data to identify patterns in pregnancy outcomes and antenatal care effectiveness.
       - I streamlined hospital data management by organizing large patient datasets, ensuring accuracy, consistency, and easy retrieval for decision-making.
 
-    - **Computer Engineer**, Owerri Capital Development Authority (11/2017 – 11/2018)  
+    - **Computer Engineer**, OCDA (11/2017 – 11/2018)  
       - Provided support for IT infrastructure and implemented **cyber defense protocols**.  
       - Conducted **vulnerability testing** and protected sensitive urban development data.  
     """
