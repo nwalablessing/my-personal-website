@@ -41,8 +41,7 @@ with col2:
         I am driven by my love for **technology**, **coding**, **cooking**, and **travelling**. 
         I come from a family of six with three amazing brothers and loving parents, **Mr. and Mrs. Nwala**.  
 
-        In 2020, I had the honor of being one of the **12 best students selected to represent Nigeria** in the global **Huawei ICT Competition**.  
-        I am also a Christian, and I aim to positively impact the world with technology.  
+        In 2020, my team and i won the HUAWEI 2020 global ICT competition.
         """
     )
 
@@ -74,10 +73,9 @@ st.write(
     """
     - **Clitter House Infant and Junior School** (2001–2007)  
     - **Brainfield Secondary School** (2008–2012)  
-      - Obtained the **West African Examination Certificate (WAEC)**  
-    - **All Nations University, Ghana**  
+    - **All Nations University**  
       - **Bachelor of Engineering in Computer Engineering** (2013–2017)  
-    - **University of Port Harcourt, Nigeria**  
+    - **University of Port Harcourt**  
       - **Master of Science in Computer Science** (2018–2023)  
     - **Bowling Green State University, USA**  
       - Currently pursuing a **Master of Science in Cybersecurity and Digital Forensics** (2023–2025)  
@@ -99,7 +97,7 @@ st.write(
 st.header("Countries I've Traveled To")
 st.write("Ghana, Togo, Benin Republic, Germany, Qatar (Doha), USA")
 st.subheader("Countries I Wish to Explore")
-st.write("All countries in **Europe**, **Asia**, **Africa**, **North America**, and **South America**.")
+st.write("All countries in **Europe**, **Asia**, **Africa**, **North America**, **Australia** and **South America**.")
 
 # Certificates Section
 st.header("Certificates")
@@ -150,7 +148,7 @@ st.write(
       - I performed cybersecurity monitoring and resolved network vulnerabilities in the simulation labs.  
       - I conducted data analysis and visualizations to enhance system performance and security.
 
-    - **IT Support Engineer**, Julius Berger, Nigeria (10/2021 – 08/2023)  
+    - **IT Support Engineer**, Julius Berger (10/2021 – 08/2023)  
       - I managed and maintained the company’s IT infrastructure, ensuring seamless operations across systems and networks.
       - I provided technical support by troubleshooting and resolving hardware, software, and network issues hereby ensuring minimal downtime for employees.
       - I administered user access control, ensuring that sensitive data and systems were secure from unauthorized access by setting up accounts and managing permissions.
@@ -158,14 +156,14 @@ st.write(
       
 
 
-    - **Data Engineer**, PJ Rapha Care Limited, Nigeria (09/2019 – 10/2021)  
+    - **Data Engineer**, PJ Rapha Care Limited (09/2019 – 10/2021)  
       - I collected and analyzed patient data from antenatal visits, tracking vital signs, health progress, and trends from the first visit to delivery using charts and graphs.  
       - I monitored patient records across ICU, male, female, and children’s wards, analyzing visit frequency, reasons for admission, and health outcomes over time.
       - I developed visual reports using data visualization tools to assess patient improvement, risk factors, and overall hospital admission trends.
       - I performed statistical analysis on maternal health data to identify patterns in pregnancy outcomes and antenatal care effectiveness.
       - I streamlined hospital data management by organizing large patient datasets, ensuring accuracy, consistency, and easy retrieval for decision-making.
 
-    - **Computer Engineer**, Owerri Capital Development Authority, Nigeria (11/2017 – 11/2018)  
+    - **Computer Engineer**, Owerri Capital Development Authority (11/2017 – 11/2018)  
       - Provided support for IT infrastructure and implemented **cyber defense protocols**.  
       - Conducted **vulnerability testing** and protected sensitive urban development data.  
     """
