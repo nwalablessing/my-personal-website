@@ -37,7 +37,7 @@ with col1:
 with col2:
     st.write(
         """
-        Hello! My name is **Nwala Blessing Uchechi**, a passionate **Computer Engineer** from Rivers State, Nigeria.  
+        Hello! My name is **Nwala Blessing Uchechi**, a passionate **Computer Engineer**.  
         I am driven by my love for **technology**, **coding**, **cooking**, and **travelling**. 
         I come from a family of six with three amazing brothers and loving parents, **Mr. and Mrs. Nwala**.  
 
